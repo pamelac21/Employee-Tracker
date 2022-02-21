@@ -1,8 +1,19 @@
 # 12 SQL: Employee Tracker
 
-Developers are often tasked with creating interfaces that make it easy for non-developers to view and interact with information stored in databases. These interfaces are known as Content Management Systems (CMS). Your challenge this week is to build a command-line application to manage a company's database of employees using Node.js, Inquirer, and MySQL.
+Developers are often tasked with creating interfaces(Content Management Systems (CMS)) that make it easy for non-developers to view and interact with information stored in databases. This project is a command-line application to manage a company's database of employees using `Node.js`, `Inquirer`, and `MySQL`.
 
-Because this application won’t be deployed, you’ll also need to provide a link to a walkthrough video that demonstrates its functionality and all of the acceptance criteria below being met. You’ll need to submit a link to the video and add it to the README of your project.
+## Skills Used
+
+* Configure your Node.js application to connect to a MySQL database.
+
+* Create and drop databases and tables.
+
+* Use CRUD (create, read, update, and delete) methods to work with persistent data.
+
+* Create schema and seed files for the development of your application.
+
+* Write join statements to establish relations between data in three separate tables using primary and foreign keys.
+
 
 ## User Story
 
