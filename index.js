@@ -1,8 +1,6 @@
 const inquirer = require("inquirer");
 const db = require('./db/connection');
 const cTable = require("console.table");
-require('dotenv').config()
-console.log(process.env) // remove this 
 
 
 const promptUser = () => {
